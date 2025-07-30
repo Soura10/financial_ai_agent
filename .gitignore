@@ -1,4 +1,10 @@
 .env
-financial_assist
-.financial_assist
-/financial_assist
+financial_agent
+.financial_agent
+financial_agent/
+financial_agent/.env
+financial_agent/.gitignore
+__pycache__
+tmp
+*.pyc
+
